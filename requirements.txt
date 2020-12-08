@@ -1,0 +1,4 @@
+flask==1.1.2
+gensim==3.8.3
+pandas==1.1.5
+SimpleText==1.0.2
