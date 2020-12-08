@@ -17,6 +17,7 @@ Uses Doc2Vec model trained on text movie synopisis.
     |-- /models
         |-- dv2.model #doc2vec model
     |-- /env
+```
 
 ### Set up
 
